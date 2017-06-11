@@ -1,0 +1,23 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(-5.0079164793715e-005, -88.215354919434, -88.608589172363),
+				["Position"] = Vector(10.171356201172, -1.62744140625, -0.537353515625),
+				["ClassName"] = "model",
+				["UniqueID"] = "985955706",
+				["Model"] = "models/tools/camera/camera.mdl",
+				["Scale"] = Vector(0.5, 0.5, 0.5),
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "3626793986",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},

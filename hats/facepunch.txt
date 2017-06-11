@@ -1,0 +1,23 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(1.6330066919327, -175.94123840332, 88.275421142578),
+				["Position"] = Vector(3.8781433105469, -7.1943359375, 0.0029296875),
+				["ClassName"] = "model",
+				["UniqueID"] = "201206516",
+				["Model"] = "models/props_phx/facepunch_logo.mdl",
+				["Scale"] = Vector(0.029999999329448, 0.029999999329448, 0.029999999329448),
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "3626793986",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},

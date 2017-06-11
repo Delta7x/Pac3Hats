@@ -1,0 +1,23 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(33.871578216553, -0.04871878772974, 89.912658691406),
+				["Position"] = Vector(5.9603881835938, -1.2467041015625, -0.069580078125),
+				["ClassName"] = "model",
+				["UniqueID"] = "3460590942",
+				["Model"] = "models/props_combine/combine_mine01.mdl",
+				["Scale"] = Vector(0.30000001192093, 0.30000001192093, 0.5),
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "3626793986",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},

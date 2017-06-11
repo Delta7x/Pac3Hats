@@ -1,0 +1,23 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(-90, 180, -180),
+				["Position"] = Vector(3.7383422851563, -0.9378662109375, -0.072998046875),
+				["ClassName"] = "model",
+				["UniqueID"] = "2506824801",
+				["Model"] = "models/mechanics/solid_steel/type_b_2_4.mdl",
+				["Scale"] = Vector(0.15000000596046, 0.10000000149012, 0.10000000149012),
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "2987443336",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},

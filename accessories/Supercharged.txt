@@ -1,0 +1,120 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["EndSize"] = 1,
+								["ClassName"] = "trail",
+								["UniqueID"] = "2375195563",
+								["Position"] = Vector(0.38818359375, 0.2705078125, 0.007110595703125),
+								["Length"] = 12.5,
+								["StartSize"] = 5.5,
+								["TrailPath"] = "particle/bendibeam_nofog",
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["EndPointName"] = "garbage metalcana 2",
+								["Position"] = Vector(9.1552734375e-005, -0.00054931640625, -1.6366577148438),
+								["UniqueID"] = "691534188",
+								["WidthBend"] = 1,
+								["Bend"] = 3.5,
+								["Name"] = "bendibeam nofog 2",
+								["EndPointUID"] = "953317352",
+								["TextureScroll"] = 1,
+								["ClassName"] = "beam",
+								["TextureStretch"] = 2,
+								["Angles"] = Angle(-84.073654174805, -180, 179.9997253418),
+								["Resolution"] = 5,
+								["Bone"] = "",
+								["Translucent"] = true,
+								["Material"] = "particle/bendibeam_nofog",
+							},
+						},
+						[3] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "light",
+								["UniqueID"] = "2351112225",
+								["Color"] = Vector(0, 255, 255),
+								["Brightness"] = 10,
+								["Position"] = Vector(0.0006103515625, -0.8050537109375, 0.95792770385742),
+							},
+						},
+					},
+					["self"] = {
+						["EditorExpand"] = true,
+						["UniqueID"] = "279270365",
+						["Position"] = Vector(-0.026611328125, -5.9189453125, 9.3857421875),
+						["Size"] = 0.075,
+						["Model"] = "models/props_junk/garbage_metalcan002a.mdl",
+						["ClassName"] = "model",
+					},
+				},
+				[2] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["EndSize"] = 1,
+								["ClassName"] = "trail",
+								["UniqueID"] = "723252587",
+								["Length"] = 12.5,
+								["StartSize"] = 5.5,
+								["TrailPath"] = "particle/bendibeam_nofog",
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "light",
+								["UniqueID"] = "3823122123",
+								["Color"] = Vector(0, 255, 255),
+								["Brightness"] = 10,
+								["Position"] = Vector(-0.0006103515625, 0.004150390625, 1.2525177001953),
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "model",
+						["Position"] = Vector(-0.004638671875, 6.17431640625, 9.28857421875),
+						["Model"] = "models/props_junk/garbage_metalcan002a.mdl",
+						["Size"] = 0.1,
+						["EditorExpand"] = true,
+						["Name"] = "garbage metalcana 2",
+						["UniqueID"] = "953317352",
+					},
+				},
+			},
+			["self"] = {
+				["UniqueID"] = "3714941196",
+				["Name"] = "substation circuitbreakera",
+				["Position"] = Vector(8.81982421875, -4.396728515625, -0.0390625),
+				["ClassName"] = "model",
+				["Size"] = 0.07,
+				["TextureFilter"] = 5.1,
+				["Angles"] = Angle(1.5391837358475, 90.243385314941, 89.256706237793),
+				["Bone"] = "spine 2",
+				["Model"] = "models/props_c17/substation_circuitbreaker01a.mdl",
+				["EditorExpand"] = true,
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "2317493242",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},

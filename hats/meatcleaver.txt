@@ -1,0 +1,23 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(0.085667684674263, 119.26753234863, 60.433124542236),
+				["Position"] = Vector(5.77001953125, 6.298095703125, 3.334228515625),
+				["ClassName"] = "model",
+				["UniqueID"] = "1271289736",
+				["Model"] = "models/props_lab/Cleaver.mdl",
+				["Scale"] = Vector(0.5, 0.5, 0.5),
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "2987443336",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},

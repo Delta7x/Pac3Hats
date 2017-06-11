@@ -1,0 +1,24 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(-7.2837565312511e-006, -108.50928497314, -90.000022888184),
+				["Position"] = Vector(5.7510986328125, -1.80810546875, 0.125244140625),
+				["ClassName"] = "model",
+				["EditorExpand"] = true,
+				["UniqueID"] = "2831232522",
+				["Model"] = "models/Gibs/HGIBS.mdl",
+				["Scale"] = Vector(1.3999999761581, 1.3999999761581, 1.3999999761581),
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "432331086",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},

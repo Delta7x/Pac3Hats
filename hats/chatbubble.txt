@@ -1,0 +1,35 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Expression"] = "nul, time()*50, nul",
+						["ClassName"] = "proxy",
+						["UniqueID"] = "3455886332",
+						["VariableName"] = "AngleOffset",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "model",
+				["Angles"] = Angle(90, 9.5607080459595, 0),
+				["UniqueID"] = "1052883548",
+				["EditorExpand"] = true,
+				["AngleOffset"] = Angle(0.90620821714401, 40643.796875, 0),
+				["Position"] = Vector(13.870697021484, -0.23388671875, -0.000885009765625),
+				["Model"] = "models/extras/info_speech.mdl",
+				["Scale"] = Vector(0.40000000596046, 0.40000000596046, 0.40000000596046),
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "3262946472",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},

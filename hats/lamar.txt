@@ -1,0 +1,23 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(-83.644683837891, -87.442817687988, 0.00026314341812395),
+				["Position"] = Vector(4.8125915527344, 0.205078125, 0.013671875),
+				["ClassName"] = "model",
+				["UniqueID"] = "2036590750",
+				["Model"] = "models/nova/w_headcrab.mdl",
+				["Scale"] = Vector(0.80000001192093, 0.80000001192093, 0.80000001192093),
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "3626793986",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},

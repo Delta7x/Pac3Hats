@@ -1,0 +1,24 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(88.472671508789, -179.99848937988, -179.99836730957),
+				["UniqueID"] = "3977116303",
+				["Position"] = Vector(-0.0413818359375, 0.1640625, 0.027618408203125),
+				["ClassName"] = "model",
+				["Bone"] = "eyes",
+				["Model"] = "models/props_c17/clock01.mdl",
+				["Scale"] = Vector(0.69999998807907, 0.69999998807907, 0.69999998807907),
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "3707624643",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},

@@ -1,0 +1,23 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(-2.3894691467285, -88.831344604492, -90.048721313477),
+				["Position"] = Vector(-4.3743591308594, 3.8232421875, -0.002685546875),
+				["ClassName"] = "model",
+				["UniqueID"] = "4279343557",
+				["Model"] = "models/maxofs2d/companion_doll.mdl",
+				["Scale"] = Vector(0.80000001192093, 0.80000001192093, 0.80000001192093),
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "2987443336",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},

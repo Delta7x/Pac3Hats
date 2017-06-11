@@ -1,0 +1,26 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["UniqueID"] = "541192036",
+				["TintColor"] = Vector(225, 255, 255),
+				["Scale"] = Vector(0.025000000372529, 0.025000000372529, 0.0099999997764826),
+				["ClassName"] = "model",
+				["Position"] = Vector(5.1323852539063, -5.4176025390625, 1.3701171875),
+				["Material"] = "models/props/cs_assault/pylon",
+				["Fullbright"] = true,
+				["Model"] = "models/props_phx/wheels/magnetic_large.mdl",
+				["Angles"] = Angle(2.1677845296608e-008, 7.3578214645386, -90.000038146973),
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "2987443336",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},

@@ -1,0 +1,24 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(0, -90, 0),
+				["UniqueID"] = "1731889430",
+				["Position"] = Vector(2, 0, 0.5),
+				["ClassName"] = "model",
+				["Bone"] = "eyes",
+				["Model"] = "models/props_c17/streetsign004f.mdl",
+				["Scale"] = Vector(0.5, 0.5, 0.5),
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "2490886635",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},

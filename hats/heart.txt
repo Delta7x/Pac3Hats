@@ -1,0 +1,38 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Expression"] = "nul, time()*50, nul",
+						["ClassName"] = "proxy",
+						["UniqueID"] = "400599813",
+						["VariableName"] = "AngleOffset",
+					},
+				},
+			},
+			["self"] = {
+				["Position"] = Vector(-3.9609375, 0.00946044921875, 6.4325256347656),
+				["TintColor"] = Vector(255, 255, 255),
+				["Name"] = "balloon classicheart",
+				["Scale"] = Vector(0.5, 0.5, 0.5),
+				["ClassName"] = "model",
+				["AngleOffset"] = Angle(0.92668831348419, 57197.46875, 0),
+				["EditorExpand"] = true,
+				["Color"] = Vector(255, 0, 0),
+				["Bone"] = "eyes",
+				["Model"] = "models/balloons/balloon_classicheart.mdl",
+				["UniqueID"] = "2674302929",
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "252324647",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},

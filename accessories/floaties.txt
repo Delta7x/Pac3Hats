@@ -1,0 +1,37 @@
+["children"] = {
+	[1] = {
+		["children"] = {
+		},
+		["self"] = {
+			["Position"] = Vector(7.7409896850586, -0.7152099609375, -0.71771240234375),
+			["Angles"] = Angle(10.943260192871, -2.4568514823914, 169.56938171387),
+			["UniqueID"] = "3151340143",
+			["Size"] = 0.275,
+			["ClassName"] = "model",
+			["Bone"] = "right upperarm",
+			["Model"] = "models/props/de_nuke/LifePreserver.mdl",
+			["Scale"] = Vector(3, 0.80000001192093, 0.80000001192093),
+		},
+	},
+	[2] = {
+		["children"] = {
+		},
+		["self"] = {
+			["Position"] = Vector(4.2362060546875, -0.056884765625, -0.040863037109375),
+			["Angles"] = Angle(-9.7960710525513, 9.8444929122925, -124.65335083008),
+			["UniqueID"] = "2789011464",
+			["Size"] = 0.275,
+			["ClassName"] = "model",
+			["Bone"] = "left upperarm",
+			["Model"] = "models/props/de_nuke/LifePreserver.mdl",
+			["Scale"] = Vector(3, 0.80000001192093, 0.80000001192093),
+		},
+	},
+},
+["self"] = {
+	["EditorExpand"] = true,
+	["UniqueID"] = "3848557657",
+	["ClassName"] = "group",
+	["Name"] = "my outfit",
+	["Description"] = "add parts to me!",
+},

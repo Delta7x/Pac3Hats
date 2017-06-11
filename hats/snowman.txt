@@ -1,0 +1,22 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(-90, 0, 180),
+				["Position"] = Vector(4.407470703125, -2.5003051757813, -0.19998168945313),
+				["ClassName"] = "model",
+				["Model"] = "models/props/cs_office/Snowman_face.mdl",
+				["UniqueID"] = "1927021504",
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "681801731",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},

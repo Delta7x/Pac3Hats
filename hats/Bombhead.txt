@@ -1,0 +1,24 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(-80.270851135254, 12.27186870575, -9.9317836761475),
+				["UniqueID"] = "200607912",
+				["Position"] = Vector(-2.48291015625, 0.472900390625, 1.4481506347656),
+				["ClassName"] = "model",
+				["Bone"] = "eyes",
+				["Model"] = "models/Combine_Helicopter/helicopter_bomb01.mdl",
+				["Scale"] = Vector(0.40000000596046, 0.40000000596046, 0.40000000596046),
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "2809133401",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},

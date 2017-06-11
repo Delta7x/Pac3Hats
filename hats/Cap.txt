@@ -1,0 +1,25 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Position"] = Vector(-1.29638671875, 0.40882873535156, 3.3960571289063),
+				["Angles"] = Angle(-8.4029550552368, -81.633583068848, -9.6001033782959),
+				["UniqueID"] = "957185852",
+				["Size"] = 1.1,
+				["ClassName"] = "model",
+				["Bone"] = "eyes",
+				["Model"] = "models/props/cs_office/Snowman_hat.mdl",
+				["Scale"] = Vector(0.80000001192093, 0.80000001192093, 0.80000001192093),
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "793853296",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},

@@ -1,0 +1,24 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(-3.5436441898346, -77.660583496094, -90.774635314941),
+				["Position"] = Vector(8.3442993164063, -0.12939453125, 0.0224609375),
+				["ClassName"] = "model",
+				["Size"] = 1.2,
+				["UniqueID"] = "1259223049",
+				["Model"] = "models/perftest/loader.mdl",
+				["Scale"] = Vector(0.025000000372529, 0.025000000372529, 0.025000000372529),
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "3626793986",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},

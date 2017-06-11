@@ -1,0 +1,25 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Position"] = Vector(-3.4027099609375, 0.26255798339844, 5.9377746582031),
+				["Angles"] = Angle(8.4908876419067, 179.99995422363, -179.99992370605),
+				["UniqueID"] = "1754138490",
+				["Size"] = 0.9,
+				["ClassName"] = "model",
+				["Bone"] = "eyes",
+				["Model"] = "models/props_junk/MetalBucket01a.mdl",
+				["Scale"] = Vector(0.69999998807907, 0.69999998807907, 0.69999998807907),
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "1488827083",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},

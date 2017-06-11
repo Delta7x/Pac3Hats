@@ -1,0 +1,23 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(0, -90, 0),
+				["UniqueID"] = "2004323213",
+				["Position"] = Vector(-2.5, 0, 4),
+				["Bone"] = "eyes",
+				["Model"] = "models/props/de_tides/Vending_turtle.mdl",
+				["ClassName"] = "model",
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "681801731",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},

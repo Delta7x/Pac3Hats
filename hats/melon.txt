@@ -1,0 +1,24 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(-0, 0, -90),
+				["UniqueID"] = "76324701",
+				["Position"] = Vector(-2.757080078125, 0, 1.00634765625),
+				["ClassName"] = "model",
+				["Bone"] = "eyes",
+				["Model"] = "models/props_junk/watermelon01.mdl",
+				["Scale"] = Vector(0.80000001192093, 0.80000001192093, 0.80000001192093),
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "1671607676",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},

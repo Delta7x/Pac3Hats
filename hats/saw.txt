@@ -1,0 +1,36 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Expression"] = "nul,time()*50",
+						["ClassName"] = "proxy",
+						["UniqueID"] = "2282637047",
+						["VariableName"] = "AngleOffset",
+					},
+				},
+			},
+			["self"] = {
+				["UniqueID"] = "1731889430",
+				["Scale"] = Vector(0.20000000298023, 0.20000000298023, 0.20000000298023),
+				["EditorExpand"] = true,
+				["Angles"] = Angle(0, 0, 15),
+				["ClassName"] = "model",
+				["Position"] = Vector(-2, 1.6550903320313, 2.4223022460938),
+				["Bone"] = "eyes",
+				["Model"] = "models/props_junk/sawblade001a.mdl",
+				["AngleOffset"] = Angle(0.98445612192154, 91070.3515625, 0),
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "2490886635",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},

@@ -1,0 +1,43 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-72.258201599121, -0.00038489128928632, 7.837256998755e-005),
+						["ClassName"] = "clip",
+						["UniqueID"] = "125222451",
+						["Position"] = Vector(1.4990234375, -0.0174560546875, 4.3268127441406),
+					},
+				},
+			},
+			["self"] = {
+				["Angles"] = Angle(-2.1592378616333, -89.999969482422, -90.000030517578),
+				["Position"] = Vector(-5.8726501464844, 0.6427001953125, 0.15283203125),
+				["ClassName"] = "model",
+				["EditorExpand"] = true,
+				["UniqueID"] = "176894064",
+				["Model"] = "models/props_c17/doll01.mdl",
+				["Scale"] = Vector(2, 2, 2),
+			},
+		},
+		[2] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "bone",
+				["UniqueID"] = "2173689565",
+				["Size"] = 0.625,
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "736178735",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},

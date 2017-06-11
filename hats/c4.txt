@@ -1,0 +1,24 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(-86.537559509277, -3.5642049312592, -175.06092834473),
+				["UniqueID"] = "1745861847",
+				["Position"] = Vector(0.0880126953125, -0.453125, 1.4222412109375),
+				["ClassName"] = "model",
+				["Bone"] = "eyes",
+				["Model"] = "models/weapons/w_c4.mdl",
+				["Scale"] = Vector(0.60000002384186, 0.60000002384186, 0.60000002384186),
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "4179894470",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},

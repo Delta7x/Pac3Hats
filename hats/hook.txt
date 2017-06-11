@@ -1,0 +1,24 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(-0, 0, 53.453987121582),
+				["UniqueID"] = "1740138788",
+				["Position"] = Vector(-3.2139999866486, -5.7199997901917, 9.8850002288818),
+				["ClassName"] = "model",
+				["Bone"] = "eyes",
+				["Model"] = "models/props_junk/meathook001a.mdl",
+				["Scale"] = Vector(0.5, 0.5, 0.5),
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "1671607676",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},

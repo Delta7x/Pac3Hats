@@ -1,0 +1,36 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Expression"] = "nul, time()*50, nul",
+						["ClassName"] = "proxy",
+						["UniqueID"] = "3854372923",
+						["VariableName"] = "AngleOffset",
+					},
+				},
+			},
+			["self"] = {
+				["UniqueID"] = "1927021504",
+				["Scale"] = Vector(0.30000001192093, 0.30000001192093, 0.30000001192093),
+				["EditorExpand"] = true,
+				["ClassName"] = "model",
+				["Position"] = Vector(-3, 0, 8.5),
+				["Color"] = Vector(225, 255, 0),
+				["Bone"] = "eyes",
+				["Model"] = "models/balloons/balloon_star.mdl",
+				["AngleOffset"] = Angle(0.97839051485062, 248053.65625, 0),
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "681801731",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},

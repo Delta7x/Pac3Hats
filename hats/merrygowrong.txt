@@ -1,0 +1,35 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Expression"] = "nul,time()*50,nul",
+						["ClassName"] = "proxy",
+						["UniqueID"] = "2534070562",
+						["VariableName"] = "AngleOffset",
+					},
+				},
+			},
+			["self"] = {
+				["Position"] = Vector(-2.687255859375, 0.0005340576171875, 4.7820739746094),
+				["AngleOffset"] = Angle(0.9863355755806, 67164.2109375, 0),
+				["UniqueID"] = "76324701",
+				["EditorExpand"] = true,
+				["ClassName"] = "model",
+				["Bone"] = "eyes",
+				["Model"] = "models/props_c17/playground_carousel01.mdl",
+				["Scale"] = Vector(0.075000002980232, 0.075000002980232, 0.075000002980232),
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "1671607676",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},

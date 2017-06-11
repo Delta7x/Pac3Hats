@@ -1,0 +1,24 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(21.085905075073, 85.156608581543, -7.7063768912922e-006),
+				["UniqueID"] = "3276756356",
+				["Position"] = Vector(-1.93212890625, 0.5279541015625, 0.92300415039063),
+				["ClassName"] = "model",
+				["Bone"] = "eyes",
+				["Model"] = "models/props_junk/harpoon002a.mdl",
+				["Scale"] = Vector(0.20000000298023, 0.20000000298023, 0.20000000298023),
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "525689939",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},

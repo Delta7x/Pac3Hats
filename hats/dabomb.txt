@@ -1,0 +1,24 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(89.24543762207, -0.0016309046186507, -28.419448852539),
+				["Position"] = Vector(3.1471862792969, -2.688232421875, -0.09375),
+				["ClassName"] = "model",
+				["EditorExpand"] = true,
+				["UniqueID"] = "972668625",
+				["Model"] = "models/dynamite/dynamite.mdl",
+				["Scale"] = Vector(0.80000001192093, 0.80000001192093, 0.80000001192093),
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "432331086",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},

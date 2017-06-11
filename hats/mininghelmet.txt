@@ -1,0 +1,37 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(6.6701071332886e-009, 0, -89.500587463379),
+						["Position"] = Vector(0.163818359375, -4.8743896484375, -0.80029296875),
+						["ClassName"] = "model",
+						["EditorExpand"] = true,
+						["UniqueID"] = "318824910",
+						["Model"] = "models/props_wasteland/prison_lamp001c.mdl",
+						["Scale"] = Vector(0.20000000298023, 0.20000000298023, 0.20000000298023),
+					},
+				},
+			},
+			["self"] = {
+				["Angles"] = Angle(-89.999984741211, 19.157396316528, 0),
+				["Position"] = Vector(7.9461975097656, 0.029296875, 0.057861328125),
+				["ClassName"] = "model",
+				["EditorExpand"] = true,
+				["UniqueID"] = "2448705373",
+				["Model"] = "models/props_wasteland/laundry_basket001.mdl",
+				["Scale"] = Vector(0.20000000298023, 0.20000000298023, 0.125),
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "2280916318",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},

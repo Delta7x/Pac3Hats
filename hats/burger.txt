@@ -1,0 +1,23 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(87.01146697998, 179.9986114502, 179.99858093262),
+				["Position"] = Vector(-13.624267578125, -0.677490234375, 1.20068359375),
+				["ClassName"] = "model",
+				["UniqueID"] = "2947132439",
+				["Model"] = "models/food/burger.mdl",
+				["Scale"] = Vector(1.6000000238419, 1.6000000238419, 1.6000000238419),
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "328291712",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},

@@ -1,0 +1,24 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(-83.579200744629, -179.99961853027, 179.99963378906),
+				["UniqueID"] = "2626286142",
+				["Material"] = "models/weapons/v_stunbaton/w_shaft01a",
+				["Position"] = Vector(-6.4510498046875, 0.1514892578125, 5.7392578125),
+				["Bone"] = "eyes",
+				["ClassName"] = "model",
+				["Scale"] = Vector(1.2999999523163, 1.2999999523163, 1.2999999523163),
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "225732579",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},

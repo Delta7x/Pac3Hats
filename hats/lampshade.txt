@@ -1,0 +1,23 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(90, 15.697590827942, 0),
+				["Position"] = Vector(7.0495910644531, 0.10540771484375, 0.002777099609375),
+				["ClassName"] = "model",
+				["UniqueID"] = "445110190",
+				["Model"] = "models/props_c17/lampShade001a.mdl",
+				["Scale"] = Vector(0.80000001192093, 0.80000001192093, 0.80000001192093),
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "1671607676",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},

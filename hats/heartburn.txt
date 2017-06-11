@@ -1,0 +1,47 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Expression"] = "nul, time()*50, nul",
+						["ClassName"] = "proxy",
+						["UniqueID"] = "400599813",
+						["VariableName"] = "AngleOffset",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Position"] = Vector(-0.003173828125, -0.000244140625, 0.01361083984375),
+						["ClassName"] = "effect",
+						["UniqueID"] = "3165425193",
+						["Effect"] = "fire_small_flameouts",
+					},
+				},
+			},
+			["self"] = {
+				["UniqueID"] = "2674302929",
+				["Name"] = "balloon classicheart",
+				["Scale"] = Vector(0.5, 0.5, 0.5),
+				["ClassName"] = "model",
+				["Position"] = Vector(-3.9609375, 0.0081787109375, 7.4196166992188),
+				["EditorExpand"] = true,
+				["AngleOffset"] = Angle(0.92668831348419, 146249.640625, 0),
+				["Bone"] = "eyes",
+				["Model"] = "models/balloons/balloon_classicheart.mdl",
+				["Material"] = "models/shadertest/envball_5",
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "252324647",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},

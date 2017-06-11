@@ -1,0 +1,24 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(-20.150472640991, -2.3645423425478e-005, 1.1367992556188e-006),
+				["UniqueID"] = "2797251486",
+				["Position"] = Vector(-6.3323974609375, 0.009307861328125, 9.6988830566406),
+				["ClassName"] = "model",
+				["Bone"] = "eyes",
+				["Model"] = "models/props_junk/TrafficCone001a.mdl",
+				["Scale"] = Vector(0.40000000596046, 0.40000000596046, 0.40000000596046),
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "502743177",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},

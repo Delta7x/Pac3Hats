@@ -1,0 +1,23 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(-2.1724537873524e-005, 1.9274553060532, 5.8430132412468e-006),
+				["UniqueID"] = "2951514978",
+				["Position"] = Vector(-4.9139404296875, 0.014404296875, -9.5691223144531),
+				["Bone"] = "eyes",
+				["Model"] = "models/maxofs2d/balloon_gman.mdl",
+				["ClassName"] = "model",
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "2336856259",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},

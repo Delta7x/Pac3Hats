@@ -1,0 +1,25 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "model",
+				["Angles"] = Angle(-56.848014831543, -54.205532073975, -93.252349853516),
+				["UniqueID"] = "4279343557",
+				["EditorExpand"] = true,
+				["AngleOffset"] = Angle(0.31662601232529, 161332.234375, 0),
+				["Position"] = Vector(5.4167785644531, -3.45556640625, -0.031005859375),
+				["Model"] = "models/gibs/gunship_gibs_sensorarray.mdl",
+				["Scale"] = Vector(0.20000000298023, 0.20000000298023, 0.20000000298023),
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "2987443336",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},

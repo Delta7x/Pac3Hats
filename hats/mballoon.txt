@@ -1,0 +1,22 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(-0.32518035173416, -90.000030517578, -90.000007629395),
+				["Position"] = Vector(-4.5215454101563, -0.0401611328125, 0.0126953125),
+				["ClassName"] = "model",
+				["Model"] = "models/maxofs2d/balloon_mossman.mdl",
+				["UniqueID"] = "3000193822",
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "3391758715",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},

@@ -1,0 +1,24 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(-2.3474884033203, -79.177375793457, -90.448616027832),
+				["UniqueID"] = "4279343557",
+				["Position"] = Vector(3.305419921875, -1.5787353515625, 0.151611328125),
+				["ClassName"] = "model",
+				["Bone"] = "neck",
+				["Model"] = "models/mechanics/wheels/wheel_spike_24.mdl",
+				["Scale"] = Vector(0.30000001192093, 0.30000001192093, 0.10000000149012),
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "2987443336",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},

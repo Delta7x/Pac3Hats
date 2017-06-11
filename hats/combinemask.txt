@@ -1,0 +1,23 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(-90, -90, -0.00022232231276575),
+				["Position"] = Vector(1.5688781738281, 0.57080078125, 0.057861328125),
+				["ClassName"] = "model",
+				["UniqueID"] = "1215770480",
+				["Model"] = "models/nova/w_headgear.mdl",
+				["Scale"] = Vector(1.1000000238419, 1.1000000238419, 1),
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "3792872695",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},

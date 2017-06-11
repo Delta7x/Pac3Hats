@@ -1,0 +1,23 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(-2.3894691467285, -88.831344604492, -90.048721313477),
+				["Position"] = Vector(4.6516418457031, -0.794921875, 0.2109375),
+				["ClassName"] = "model",
+				["UniqueID"] = "4279343557",
+				["Model"] = "models/maxofs2d/hover_rings.mdl",
+				["Scale"] = Vector(0.80000001192093, 0.80000001192093, 0.80000001192093),
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "2987443336",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},

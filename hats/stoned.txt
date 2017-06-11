@@ -1,0 +1,45 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-70.139213562012, -0.00057171907974407, 0.00020355713786557),
+						["ClassName"] = "clip",
+						["UniqueID"] = "2652266137",
+						["Position"] = Vector(-0.21728515625, -0.018798828125, 1.5279998779297),
+					},
+				},
+			},
+			["self"] = {
+				["Angles"] = Angle(1.3976322412491, -90.093170166016, -93.812347412109),
+				["Position"] = Vector(-3.6785888671875, -0.30224609375, -2.190673828125),
+				["ClassName"] = "model",
+				["EditorExpand"] = true,
+				["UniqueID"] = "940612049",
+				["Model"] = "models/props_combine/breenbust.mdl",
+				["Scale"] = Vector(1.1000000238419, 1.1000000238419, 1),
+			},
+		},
+		[2] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(-2.332465171814, 1.4171022176743, -0.057739201933146),
+				["UniqueID"] = "3113366986",
+				["Position"] = Vector(-0.031494140625, -0.6126708984375, 0.083251953125),
+				["ClassName"] = "bone",
+				["Scale"] = Vector(0.80000001192093, 0.60000002384186, 0.89999997615814),
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "2987443336",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},
